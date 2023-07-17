@@ -1,0 +1,2 @@
+/usr/bin/ar.exe qc liblib.a CMakeFiles/lib.dir/aux_func.c.o CMakeFiles/lib.dir/main2.c.o CMakeFiles/lib.dir/structs.c.o
+/usr/bin/ranlib.exe liblib.a

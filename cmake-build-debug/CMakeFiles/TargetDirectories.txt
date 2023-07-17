@@ -1,0 +1,5 @@
+/cygdrive/c/Users/joanm/CLionProjects/Projeto_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/joanm/CLionProjects/Projeto_3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/joanm/CLionProjects/Projeto_3/cmake-build-debug/CMakeFiles/main2.dir
+/cygdrive/c/Users/joanm/CLionProjects/Projeto_3/cmake-build-debug/CMakeFiles/main1.dir
+/cygdrive/c/Users/joanm/CLionProjects/Projeto_3/cmake-build-debug/CMakeFiles/lib.dir

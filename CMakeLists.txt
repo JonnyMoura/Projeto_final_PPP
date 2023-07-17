@@ -1,0 +1,10 @@
+cmake_minimum_required(VERSION 3.19)
+project(Projeto_3 C)
+
+set(CMAKE_C_STANDARD 11)
+add_library(lib aux_func.c aux_func.h main2.c structs.c structs.h)
+add_executable(main1 main.c)
+target_link_libraries(main1 lib)
+add_compile_options(-Wall -Wextra)
+add_executable(main2 main2.c)
+target_link_libraries(main2 lib)

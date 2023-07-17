@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/joanm/CLionProjects/Projeto_3/aux_func.h
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+stdbool.h
+-
+locale.h
+-
+structs.h
+/cygdrive/c/Users/joanm/CLionProjects/Projeto_3/structs.h
+
+/cygdrive/c/Users/joanm/CLionProjects/Projeto_3/main2.c
+aux_func.h
+/cygdrive/c/Users/joanm/CLionProjects/Projeto_3/aux_func.h
+
+/cygdrive/c/Users/joanm/CLionProjects/Projeto_3/structs.h
+stdio.h
+-
+stdbool.h
+-
+stdlib.h
+-
+
